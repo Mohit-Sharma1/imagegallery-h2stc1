@@ -1,6 +1,5 @@
 # imagegallery-h2stc1
 
-
 In order to contribute to this photo gallery, please follow the steps below:
 
 1. Fork the repository.
@@ -10,3 +9,4 @@ In order to contribute to this photo gallery, please follow the steps below:
 5. Commit the changes.
 6. Push the changes to the new branch.
 7. Create a pull request.
+
